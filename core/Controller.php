@@ -2,7 +2,8 @@
 /**
 * Controller
 **/
-class Controller{
+class Controller
+{
 	
 	public $request;  				// Objet Request 
 	private $vars     = array();	// Variables à passer à la vue
@@ -13,7 +14,8 @@ class Controller{
 	* Constructeur
 	* @param $request Objet request de notre application
 	**/
-	function __construct($request){
+	function __construct($request)
+	{
 		$this->request = $request; 	// On stock la request dans l'instance
 	}
 
@@ -22,12 +24,16 @@ class Controller{
 	* Permet d'afficher une vue
 	* @param $view Fichier à rendre (chemin depuis view ou nom de la vue) 
 	**/
-	public function render($view){
+	public function render($view)
+	{
 		if($this->rendered){ return false; }
 		extract($this->vars); 
-		if(strpos($view,'/')===0){
+		if(strpos($view,'/') === 0)
+		{
 			$view = ROOT.DS.'view'.$view.'.php';
-		}else{
+		}
+		else
+		{
 			$view = ROOT.DS.'view'.DS.$this->request->controller.DS.$view.'.php';
 		}
 		ob_start(); 

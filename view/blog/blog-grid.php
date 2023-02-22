@@ -5,47 +5,47 @@
     </div>
     <div class="container-fluid">
       <div class="grid">
-        <div class="grid-sizer col-1"></div><a class="grid-item col-4" href="blog-single.html"><img
+        <div class="grid-sizer col-1"></div><a class="grid-item col-4" href="blog-single.php"><img
             alt="Neoto - Creative Studio Portfolio Template" src="images/16.jpg">
           <div class="caption p-3">
             <div class="title">Flourish Away</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/10.jpg">
           <div class="caption p-3">
             <div class="title">Suit up</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/8.jpg">
           <div class="caption p-3">
             <div class="title">Mix it up</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/17.jpg">
           <div class="caption p-3">
             <div class="title">Next-gen Shoes</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/6.jpg">
           <div class="caption p-3">
             <div class="title">Back to Tapes</div>
           </div>
-        </a><a class="grid-item col-8" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-8" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/7.jpg">
           <div class="caption p-3">
             <div class="title">Turn the page</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/9.jpg">
           <div class="caption p-3">
             <div class="title">Wiremore</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/15.jpg">
           <div class="caption p-3">
             <div class="title">Silk White</div>
           </div>
-        </a><a class="grid-item col-4" href="blog-single.html"><img alt="Neoto - Creative Studio Portfolio Template"
+        </a><a class="grid-item col-4" href="blog-single.php"><img alt="Neoto - Creative Studio Portfolio Template"
             src="images/5.jpg">
           <div class="caption p-3">
             <div class="title">Branch X</div>

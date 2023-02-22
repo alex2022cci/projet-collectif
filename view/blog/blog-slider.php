@@ -8,7 +8,7 @@
             <div class="container-fluid py-6">
               <h4>Oct 10, 2020 &mdash; by Dan</h4>
               <h1 class="massive pt-2"><span class="d-block">Facing</span><span class="d-block">Yourself</span></h1>
-              <a class="btn" href="blog-single.html">Read story</a>
+              <a class="btn" href="blog-single.php">Read story</a>
             </div>
           </div>
         </li>
@@ -18,7 +18,7 @@
             <div class="container-fluid py-6">
               <h4>Oct 6, 2020 &mdash; by Ellis</h4>
               <h1 class="massive pt-2"><span class="d-block">Top 10 </span><span class="d-block">Books</span></h1><a
-                class="btn" href="blog-single.html">Read story</a>
+                class="btn" href="blog-single.php">Read story</a>
             </div>
           </div>
         </li>
@@ -28,7 +28,7 @@
             <div class="container-fluid py-6">
               <h4>Oct 3, 2020 &mdash; by Dan</h4>
               <h1 class="massive pt-2"><span class="d-block">Recycled</span><span class="d-block">Suits</span></h1>
-              <a class="btn" href="blog-single.html">Read story</a>
+              <a class="btn" href="blog-single.php">Read story</a>
             </div>
           </div>
         </li>
@@ -38,7 +38,7 @@
             <div class="container-fluid py-6">
               <h4>Oct 1, 2020 &mdash; by Doria</h4>
               <h1 class="massive pt-2"><span class="d-block">Ctrl + Air</span></h1><a class="btn"
-                href="blog-single.html">Read story</a>
+                href="blog-single.php">Read story</a>
             </div>
           </div>
         </li>

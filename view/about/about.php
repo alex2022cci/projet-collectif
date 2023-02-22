@@ -51,19 +51,19 @@
   </div>
   <div class="container-fluid">
     <div class="grid">
-      <div class="grid-sizer col-1"></div><a class="grid-item col-3" href="project-single.html"><img alt="Neoto - Creative Studio Portfolio Template" src="images/1.jpg">
+      <div class="grid-sizer col-1"></div><a class="grid-item col-3" href="project-single.php"><img alt="Neoto - Creative Studio Portfolio Template" src="images/1.jpg">
         <div class="caption p-3">
           <div class="title">Flourish Away</div>
         </div>
-      </a><a class="grid-item col-3" href="project-single.html"><img alt="Neoto - Creative Studio Portfolio Template" src="images/2.jpg">
+      </a><a class="grid-item col-3" href="project-single.php"><img alt="Neoto - Creative Studio Portfolio Template" src="images/2.jpg">
         <div class="caption p-3">
           <div class="title">Suit up</div>
         </div>
-      </a><a class="grid-item col-3" href="project-single.html"><img alt="Neoto - Creative Studio Portfolio Template" src="images/3.jpg">
+      </a><a class="grid-item col-3" href="project-single.php"><img alt="Neoto - Creative Studio Portfolio Template" src="images/3.jpg">
         <div class="caption p-3">
           <div class="title">Mix it up</div>
         </div>
-      </a><a class="grid-item col-3" href="project-single.html"><img alt="Neoto - Creative Studio Portfolio Template" src="images/4.jpg">
+      </a><a class="grid-item col-3" href="project-single.php"><img alt="Neoto - Creative Studio Portfolio Template" src="images/4.jpg">
         <div class="caption p-3">
           <div class="title">Next-gen Shoes</div>
         </div>

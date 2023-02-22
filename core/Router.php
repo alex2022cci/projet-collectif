@@ -1,14 +1,14 @@
 <?php
 class Router
 {
-
 	/**
 	 * Permet de parser une url
 	 * @param $url Url à parser
-	 * @return tableau contenant les paramètres
+	 * @return array contenant les paramètres
 	 **/
 	static function parse($url, $request)
 	{
+
 		$url = trim($url, '/');
 		$params = explode('/', $url);
 		$request->controller = $params[0];

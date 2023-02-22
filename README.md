@@ -14,3 +14,5 @@ Réalisation par la formation DWWM 2022-2023.
 
 ## Commentaires
 
+~~ Alex ~~
+L'instruction <code>echo basename($_SERVER['SCRIPT_NAME']); </code> renvoie bien index.php

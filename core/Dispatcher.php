@@ -1,10 +1,11 @@
 <?php
 
+
 /**
  * Dispatcher
  * Permet de charger le controller en fonction de la requête utilisateur
  **/
-class Dispatcher
+class Dispatcher 
 {
 
 	var $request;	// Object Reques
